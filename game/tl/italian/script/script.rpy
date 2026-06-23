@@ -4,7 +4,7 @@ translate italian strings:
 
     # game/script/Truth Scrapper Demo/game/archive.rpa/script/script.rpy:67
     old "ME"
-    new "ME"
+    new "IO"
 
     # game/script/Truth Scrapper Demo/game/archive.rpa/script/script.rpy:68
     old "[amourname!t]"
