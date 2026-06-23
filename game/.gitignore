@@ -1,0 +1,36 @@
+# Ren'Py build and cache directories
+/build/
+/dist/
+/__pycache__/
+*.pyc
+*.pyo
+
+# Ren'Py compiled files
+*.rpyc
+*.rpymc
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+.directory
+
+# Temporary files
+*.tmp
+*.bak
+~*
+
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Cache and saves directories
+/cache/
+/saves/
