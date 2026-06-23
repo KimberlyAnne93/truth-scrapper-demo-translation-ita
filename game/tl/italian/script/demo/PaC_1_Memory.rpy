@@ -4,7 +4,7 @@ translate italian strings:
 
     # game/script/Truth Scrapper Demo/game/archive.rpa/script/demo/PaC_1_Memory.rpy:122
     old "{color=6B883C}• Hospital smells like antiseptic. Ew...{image=smell}{/color}"
-    new "{color=6B883C}• Hospital smells like antiseptic. Ew...{image=smell}{/color}"
+    new "{color=6B883C}• L'ospedale puzza di disinfettante. Ew...{image=smell}{/color}"
 
     # game/script/Truth Scrapper Demo/game/archive.rpa/script/demo/PaC_1_Memory.rpy:124
     old "{color=6B883C}• I can see some hospital books about all kinds of medical subjects.{image=sight}{/color}"
@@ -28,9 +28,9 @@ translate italian strings:
 
     # game/script/Truth Scrapper Demo/game/archive.rpa/script/demo/PaC_1_Memory.rpy:139
     old "{color=B06531}• Amour is interesting.{image=amourstat}{/color}"
-    new "{color=B06531}• Amour is interesting.{image=amourstat}{/color}"
+    new "{color=B06531}• Amour è interessante.{image=amourstat}{/color}"
 
     # game/script/Truth Scrapper Demo/game/archive.rpa/script/demo/PaC_1_Memory.rpy:141
     old "{color=5597A9}• Betz is interesting.{image=betzstat}{/color}"
-    new "{color=5597A9}• Betz is interesting.{image=betzstat}{/color}"
+    new "{color=5597A9}• Betz è interessante.{image=betzstat}{/color}"
 

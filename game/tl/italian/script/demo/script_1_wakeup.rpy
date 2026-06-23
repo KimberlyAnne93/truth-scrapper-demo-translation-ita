@@ -10,7 +10,7 @@ translate italian script_1_320e6385:
 translate italian script_1_cd9f869a:
 
     # "(Oh, the end of this dream woke me right up.)"
-    "(Oh, the end of this dream woke me right up.)"
+    "(Oh, la fine del sogno mi ha svegliata di colpo.)"
 
 # game/script/Truth Scrapper Demo/game/archive.rpa/script/demo/script_1_wakeup.rpy:17
 translate italian script_1_d80d74d8:
