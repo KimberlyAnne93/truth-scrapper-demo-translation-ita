@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-23 04:52
+﻿# TODO: Translation updated at 2026-06-25 13:49
 
 # game/code/plugins/kinetic_text_tags.rpy:1
 translate italian 6c0c3176_1:

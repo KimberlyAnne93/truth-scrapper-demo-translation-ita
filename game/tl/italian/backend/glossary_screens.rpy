@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-23 04:52
+﻿# TODO: Translation updated at 2026-06-25 13:49
 
 # game/backend/glossary_screens.rpy:150
 translate italian test_glossary_label_9c988a72_1:

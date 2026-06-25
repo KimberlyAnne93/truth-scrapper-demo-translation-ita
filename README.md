@@ -1,1 +1,0 @@
-# Truth Scrapper (Italian Translation)
